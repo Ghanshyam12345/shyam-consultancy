@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Shyam IT & Corporate Consultancy - Lucknow</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body{font-family:Arial;margin:0;background:#f4f6f8;}
+header{background:#0d47a1;color:#fff;padding:20px;text-align:center;}
+nav{background:#1565c0;padding:10px;text-align:center;}
+nav a{color:#fff;margin:0 15px;text-decoration:none;font-weight:bold;}
+section{padding:30px;}
+.card{background:#fff;padding:20px;margin:15px 0;border-radius:8px;box-shadow:0 0 10px rgba(0,0,0,0.1);}
+footer{background:#0d47a1;color:#fff;text-align:center;padding:10px;}
+.btn{background:#0d47a1;color:#fff;padding:10px 20px;border:none;border-radius:5px;}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Shyam IT & Corporate Consultancy</h1>
+<p>Authorized Recruitment & Staffing Partner – Lucknow</p>
+</header>
+
+<nav>
+<a href="#about">About</a>
+<a href="#services">Services</a>
+<a href="#register">Register</a>
+<a href="#contact">Contact</a>
+</nav>
+
+<section id="about" class="card">
+<h2>About Us</h2>
+<p>We connect talented professionals with trusted IT and Non-IT companies across India. 
+Specialized in IAM, SailPoint, Java, Cloud & Corporate Hiring.</p>
+</section>
+
+<section id="services" class="card">
+<h2>Our Services</h2>
+<ul>
+<li>IT Hiring – IAM / SailPoint / Java / Cloud / L1 Support</li>
+<li>Non-IT Hiring – BPO / Sales / HR / Back Office</li>
+<li>Bulk Hiring & Contract Staffing</li>
+<li>Resume Building & Interview Support</li>
+</ul>
+</section>
+
+<section id="register" class="card">
+<h2>Candidate Registration</h2>
+<p>Registration Fee: ₹500</p>
+<form>
+<input type="text" placeholder="Full Name" required><br><br>
+<input type="text" placeholder="Qualification"><br><br>
+<input type="text" placeholder="Experience / Fresher"><br><br>
+<input type="text" placeholder="Job Profile Required"><br><br>
+<button class="btn">Submit</button>
+</form>
+</section>
+
+<section id="contact" class="card">
+<h2>Contact Us</h2>
+<p><b>Phone:</b> +91-XXXXXXXXXX</p>
+<p><b>Email:</b> shyam.consultancy@gmail.com</p>
+<p><b>Location:</b> Gomti Nagar / Alambagh, Lucknow</p>
+</section>
+
+<footer>
+<p>© 2026 Shyam IT & Corporate Consultancy</p>
+</footer>
+
+</body>
+</html>
+
